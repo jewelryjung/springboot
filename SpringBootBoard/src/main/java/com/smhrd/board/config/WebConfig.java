@@ -19,7 +19,7 @@ public class WebConfig implements WebMvcConfigurer{// interface
 												   // localhost:포트/uploads/파일명
 				.addResourceLocations("file:/home/git/upload"); //실제 서버에 저장할 경로
 		
-	}
+	} 
 
 	 
 	
